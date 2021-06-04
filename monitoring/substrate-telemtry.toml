@@ -1,0 +1,11 @@
+[tool]
+name = "Substrate Telemetry"
+description = "Telemetry services for Substrate chains"
+repository = "https://github.com/paritytech/substrate-telemetry"
+homepage = "https://telemetry.polkadot.io/"
+version = "2021-05-21"
+authors = ""
+documentation = ""
+readme = "https://raw.githubusercontent.com/paritytech/substrate-telemetry/master/README.md"
+license = "GPL-3.0"
+icon = ""

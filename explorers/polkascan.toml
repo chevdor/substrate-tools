@@ -1,0 +1,11 @@
+[tool]
+name = "Polkascan"
+description = "Multi-Chain block explorer."
+repository = "https://github.com/polkascan/polkascan-os"
+homepage = "https://polkascan.io/"
+version = ""
+authors = ""
+documentation = ""
+readme = "https://raw.githubusercontent.com/polkascan/polkascan-os/master/README.md"
+license = "GPL-3.0"
+icon = "https://polkascan.io/assets/logo.png"

@@ -1,0 +1,11 @@
+[tool]
+name = "Parity SCALE Codec"
+description = "Lightweight, efficient, binary serialization and deserialization codec."
+repository = "https://github.com/paritytech/parity-scale-codec"
+homepage = "https://github.com/paritytech/parity-scale-codec"
+version = "v2.1.1"
+authors = "Parity Technologies <admin@parity.io>"
+documentation = "https://substrate.dev/docs/en/knowledgebase/advanced/codec"
+readme = "https://raw.githubusercontent.com/paritytech/parity-scale-codec/master/README.md"
+license = "APACHE-2.0"
+icon = ""

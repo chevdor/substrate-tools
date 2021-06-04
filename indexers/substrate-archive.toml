@@ -1,0 +1,11 @@
+[tool]
+name = "Substrate Archive"
+description = "Substrate blockchain indexing engine."
+repository = "https://github.com/paritytech/substrate-archive"
+homepage = "https://www.parity.io/signer/"
+version = "v0.5.1"
+authors = ""
+documentation = "https://github.com/paritytech/substrate-archive/wiki"
+readme = "https://raw.githubusercontent.com/paritytech/substrate-archive/master/README.md"
+license = "GPL-3.0"
+icon = ""

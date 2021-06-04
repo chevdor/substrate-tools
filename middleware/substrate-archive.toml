@@ -2,7 +2,7 @@
 name = "Substrate Archive"
 description = "Substrate blockchain indexing engine."
 repository = "https://github.com/paritytech/substrate-archive"
-homepage = "https://www.parity.io/signer/"
+homepage = "https://github.com/paritytech/substrate-archive"
 version = "v0.5.1"
 authors = ""
 documentation = "https://github.com/paritytech/substrate-archive/wiki"

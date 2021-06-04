@@ -1,0 +1,11 @@
+[tool]
+name = "Substrate API Sidecar"
+description = "Rest API for interacting with Substrate nodes."
+repository = "https://github.com/paritytech/substrate-api-sidecar"
+homepage = "https://paritytech.github.io/substrate-api-sidecar/dist/"
+version = "v7.0.0"
+authors = ""
+documentation = "https://paritytech.github.io/substrate-api-sidecar/dist/"
+readme = "https://raw.githubusercontent.com/paritytech/substrate-api-sidecar/master/README.md"
+license = "GPL-3.0"
+icon = ""

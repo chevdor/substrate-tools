@@ -1,0 +1,11 @@
+[tool]
+name = "Substrate Analytics"
+description = "Tooling for monitoring multiple nodes / prometheus exporter."
+repository = "https://github.com/paritytech/substrate-analytics"
+homepage = "https://github.com/paritytech/substrate-analytics"
+version = ""
+authors = ""
+documentation = ""
+readme = "https://raw.githubusercontent.com/paritytech/substrate-analytics/master/README.md"
+license = "GPL-3.0"
+icon = ""

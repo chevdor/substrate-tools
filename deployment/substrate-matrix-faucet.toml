@@ -1,0 +1,11 @@
+[tool]
+name = "Substrate Matrix Faucet"
+description = "Generic Faucet for Substrate based chains."
+repository = "https://github.com/paritytech/substrate-matrix-faucet"
+homepage = "https://github.com/paritytech/substrate-matrix-faucet"
+version = ""
+authors = ""
+documentation = ""
+readme = "https://raw.githubusercontent.com/paritytech/substrate-matrix-faucet/main/README.md"
+license = "MIT"
+icon = ""

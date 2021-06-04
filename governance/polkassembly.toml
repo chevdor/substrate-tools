@@ -1,0 +1,11 @@
+[tool]
+name = "Polkassembly"
+description = "The place to discuss and vote on Kusama and Polkadot governance."
+repository = "https://github.com/paritytech/polkassembly"
+homepage = "https://polkassembly.io"
+version = ""
+authors = ""
+documentation = "https://github.com/paritytech/polkassembly"
+readme = "https://raw.githubusercontent.com/paritytech/polkassembly/master/README.md"
+license = "APACHE-2.0"
+icon = ""

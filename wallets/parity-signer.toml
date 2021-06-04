@@ -1,0 +1,11 @@
+[tool]
+name = "Parity Signer"
+description = "Air-gapped crypto wallet."
+repository = "https://github.com/paritytech/parity-signer"
+homepage = "https://www.parity.io/signer/"
+version = "v4.5.3-beta"
+authors = ""
+documentation = ""
+readme = "https://raw.githubusercontent.com/paritytech/parity-signer/master/README.md"
+license = "GPL-3.0"
+icon = "https://www.parity.io/assets/img/logos/logo-parity-signer-light.svg?v=5f88bddc42"

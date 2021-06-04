@@ -1,0 +1,11 @@
+[tool]
+name = "Wasmi"
+description = "Wasm interpreter in Rust."
+repository = "https://github.com/paritytech/wasmi"
+homepage = "https://github.com/paritytech/wasmi"
+version = "v0.9.0"
+authors = "Nikolay Volf <nikvolf@gmail.com>,Svyatoslav Nikolsky <svyatonik@yandex.ru>,Sergey Pepyakin <s.pepyakin@gmail.com>"
+documentation = "https://paritytech.github.io/wasmi"
+readme = "https://raw.githubusercontent.com/paritytech/wasmi/master/README.md"
+license = "MIT/Apache-2.0"
+icon = ""

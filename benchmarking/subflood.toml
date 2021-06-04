@@ -1,0 +1,11 @@
+[tool]
+name = "Subflood"
+description = "Tools for flooding Substrate node with transactions."
+repository = "https://github.com/paritytech/sub-flood"
+homepage = "https://github.com/paritytech/sub-flood"
+version = ""
+authors = ""
+documentation = ""
+readme = "https://raw.githubusercontent.com/paritytech/sub-flood/master/README.md"
+license = "MIT"
+icon = ""

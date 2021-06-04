@@ -1,0 +1,11 @@
+[tool]
+name = "Polkadot Launch"
+description = "Simple CLI tool to launch a local Polkadot test network."
+repository = "https://github.com/paritytech/polkadot-launch"
+homepage = "https://github.com/paritytech/polkadot-launch"
+version = ""
+authors = ""
+documentation = ""
+readme = "https://raw.githubusercontent.com/paritytech/polkadot-launch/master/README.md"
+license = "MIT"
+icon = ""

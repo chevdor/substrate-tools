@@ -1,0 +1,11 @@
+[tool]
+name = "Parity Wasm"
+description = "WebAssembly serialization/deserialization in Rust."
+repository = "https://github.com/paritytech/parity-wasm"
+homepage = "https://github.com/paritytech/parity-wasm"
+version = ""
+authors = "Nikolay Volf <nikvolf@gmail.com>,Svyatoslav Nikolsky <svyatonik@yandex.ru>,Sergey Shulepov <s.pepyakin@gmail.com>"
+documentation = "https://docs.rs/parity-wasm"
+readme = "https://raw.githubusercontent.com/paritytech/parity-wasm/master/README.md"
+license = "MIT/Apache-2.0"
+icon = ""

@@ -1,0 +1,11 @@
+[tool]
+name = "Substrate Connect"
+description = "A set of tooling for developing lightweight, browser based DApps."
+repository = "https://github.com/paritytech/substrate-connect"
+homepage = "https://github.com/paritytech/substrate-connect"
+version = "v0.1.0"
+authors = "Parity Team <admin@parity.io>"
+documentation = ""
+readme = "https://raw.githubusercontent.com/paritytech/substrate-connect/master/README.md"
+license = "GPL-3.0"
+icon = ""

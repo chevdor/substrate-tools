@@ -1,0 +1,11 @@
+[tool]
+name = "Polkawallet"
+description = "Polkawallet provide cross-chain asset one-stop management, convenient staking and governance, the private key is self-owned."
+repository = "https://github.com/polkawallet-io/app"
+homepage = "https://polkawallet.io/"
+version = "v2.0.5"
+authors = ""
+documentation = ""
+readme = "https://raw.githubusercontent.com/polkawallet-io/app/master/README.md"
+license = "APACHE-2.0"
+icon = "https://polkawallet.io/images/logo.png"

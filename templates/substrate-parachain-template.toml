@@ -1,0 +1,11 @@
+[tool]
+name = "Substrate Parachain Template"
+description = "A new Cumulus-based Substrate node, ready for hacking."
+repository = "https://github.com/substrate-developer-hub/substrate-parachain-template"
+homepage = "https://substrate.dev"
+version = "v3.0.0"
+authors = "Substrate DevHub <https://github.com/substrate-developer-hub>"
+documentation = "https://substrate.dev/cumulus-workshop/"
+readme = "https://raw.githubusercontent.com/substrate-developer-hub/substrate-parachain-template/master/README.md"
+license = "Unlicense"
+icon = "https://substrate.dev/img/Substrate-logo.svg"

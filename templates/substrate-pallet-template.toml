@@ -1,0 +1,11 @@
+[tool]
+name = "Substrate Pallet Template"
+description = "FRAME pallet template for defining custom runtime logic."
+repository = "https://github.com/substrate-developer-hub/substrate-pallet-template"
+homepage = "https://substrate.dev"
+version = "v3.0.0"
+authors = "Substrate DevHub <https://github.com/substrate-developer-hub>"
+documentation = "https://substrate.dev/docs/en/"
+readme = "https://raw.githubusercontent.com/substrate-developer-hub/substrate-pallet-template/master/README.md"
+license = "Unlicense"
+icon = "https://substrate.dev/img/Substrate-logo.svg"

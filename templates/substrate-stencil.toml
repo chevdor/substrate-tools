@@ -1,0 +1,11 @@
+[tool]
+name = "Substrate Stencil"
+description = "A template for kick starting a Substrate based PoS chain."
+repository = "https://github.com/kaichaosun/substrate-stencil"
+homepage = "https://github.com/kaichaosun/substrate-stencil"
+version = "v2.0.0"
+authors = "kaichaosun"
+documentation = ""
+readme = "https://raw.githubusercontent.com/kaichaosun/substrate-stencil/master/README.md"
+license = "Unlicense"
+icon = ""

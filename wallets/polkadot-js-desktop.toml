@@ -1,0 +1,11 @@
+[tool]
+name = "Polkadot.js Desktop"
+description = "Desktop Polkadot apps client for Windows, Mac and Linux."
+repository = "https://github.com/polkadot-js/apps/tree/master/packages/apps-electron"
+homepage = "https://github.com/polkadot-js/apps/releases/latest"
+version = "0.92"
+authors = "Jaco Greeff <jacogr@gmail.com>"
+documentation = "https://polkadot.js.org/docs/"
+readme = "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-electron/README.md"
+license = "APACHE-2.0"
+icon = "https://polkadot.js.org/logo.svg"

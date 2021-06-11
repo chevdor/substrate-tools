@@ -1,6 +1,6 @@
 [tool]
 name = "Polkadot.js Apps Wallet"
-description = "Polkadot dashboard block explorer."
+description = "A wallet built on the polkadot-js stack."
 repository = "https://github.com/polkadot-js/apps"
 homepage = "https://polkadot.js.org/apps/#/accounts"
 version = "0.92"

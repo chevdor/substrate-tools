@@ -1,0 +1,11 @@
+[tool]
+name = "Polkadot.js Extension"
+description = "A browser-based vault for management of your account keys."
+repository = "https://github.com/polkadot-js/extension"
+homepage = "https://polkadot.js.org/extension"
+version = "0.38"
+authors = "Jaco Greeff <jacogr@gmail.com>"
+documentation = "https://polkadot.js.org/docs/extension/"
+readme = "https://raw.githubusercontent.com/polkadot-js/extension/master/README.md"
+license = "APACHE-2.0"
+icon = "https://polkadot.js.org/logo.svg"

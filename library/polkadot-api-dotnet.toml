@@ -1,0 +1,11 @@
+[tool]
+name = ".NET Polkadot API"
+description = "Polkadot Substrate API for .NET."
+repository = "https://github.com/usetech-llc/polkadot_api_dotnet"
+homepage = "https://github.com/usetech-llc/polkadot_api_dotnet"
+version = ""
+authors = "UseTech LLC"
+documentation = ""
+readme = "https://raw.githubusercontent.com/usetech-llc/polkadot_api_dotnet/master/README.md"
+license = "APACHE-2.0"
+icon = ""

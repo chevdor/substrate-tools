@@ -1,0 +1,11 @@
+[tool]
+name = "Python Substrate Interface"
+description = "Polkadot library for Python."
+repository = "https://github.com/polkascan/py-substrate-interface"
+homepage = "https://github.com/polkascan/py-substrate-interface"
+version = ""
+authors = "Polkascan"
+documentation = ""
+readme = "https://raw.githubusercontent.com/polkascan/py-substrate-interface/master/README.md"
+license = "APACHE-2.0"
+icon = ""

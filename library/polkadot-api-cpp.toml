@@ -1,0 +1,11 @@
+[tool]
+name = "C++ Polkadot API"
+description = "С++ API for Polkadot."
+repository = "https://github.com/usetech-llc/polkadot_api_cpp"
+homepage = "https://github.com/usetech-llc/polkadot_api_cpp"
+version = ""
+authors = "UseTech LLC"
+documentation = ""
+readme = "https://raw.githubusercontent.com/usetech-llc/polkadot_api_cpp/master/README.md"
+license = "APACHE-2.0"
+icon = ""

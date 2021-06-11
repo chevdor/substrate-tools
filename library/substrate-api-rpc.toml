@@ -1,0 +1,11 @@
+[tool]
+name = "Go Substrate API"
+description = "Go API for Polkadot."
+repository = "https://github.com/itering/substrate-api-rpc"
+homepage = "https://github.com/itering/substrate-api-rpc"
+version = "0.3.7"
+authors = ""
+documentation = ""
+readme = "https://raw.githubusercontent.com/itering/substrate-api-rpc/master/README.md"
+license = "GPL-3.0"
+icon = ""

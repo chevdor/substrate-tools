@@ -1,0 +1,11 @@
+[tool]
+name = "Polkadot.js Apps Explorer"
+description = "Polkadot dashboard block explorer."
+repository = "https://github.com/polkadot-js/apps"
+homepage = "https://polkadot.js.org/apps/#/explorer"
+version = "0.92"
+authors = "Jaco Greeff <jacogr@gmail.com>"
+documentation = "https://polkadot.js.org/docs/"
+readme = "https://raw.githubusercontent.com/polkadot-js/apps/master/README.md"
+license = "APACHE-2.0"
+icon = "https://polkadot.js.org/logo.svg"

@@ -1,0 +1,74 @@
+name = "Substrate Tool"
+description = "Thsi template helps you create a toml file to add a project to https://github.com/stiiifff/substrate-tools"
+kickstart_version = 1
+authors = [
+    "chevdor <chevdor@gmail.com>"
+]
+
+ignore = [
+    "README.md",
+]
+directory = "{{category}}"
+
+[[variables]]
+name = "category"
+default = "misc"
+prompt = "Category"
+choices = ["misc", "benchmarking", "deployment", "explorers", "governance", "ide", "library", "light-clients", "middleware", "monitoring", "templates", "wallets"]
+
+[[variables]]
+name = "name"
+default = ""
+prompt = "Name"
+
+[[variables]]
+name = "version"
+default = ""
+prompt = "Version"
+validation = "^v.*$"
+
+[[variables]]
+name = "description"
+default = ""
+prompt = "Description"
+validation = ".*\\.$"
+
+[[variables]]
+name = "repository"
+default = ""
+prompt = "Repository"
+validation = "^http.*$"
+
+[[variables]]
+name = "homepage"
+default = ""
+prompt = "Homepage"
+validation = "^http.*$"
+
+[[variables]]
+name = "authors"
+default = "Name <email_or_site>"
+prompt = "Authors"
+
+[[variables]]
+name = "documentation"
+default = ""
+prompt = "Documentation"
+validation = "^http.*$"
+
+[[variables]]
+name = "readme"
+default = ""
+prompt = "Readme"
+validation = "^http.*$"
+
+[[variables]]
+name = "license"
+default = ""
+prompt = "Unlicensed"
+
+[[variables]]
+name = "icon"
+default = ""
+prompt = "Icon"
+validation = "^http.*$"

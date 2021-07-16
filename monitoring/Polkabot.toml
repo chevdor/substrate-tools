@@ -1,0 +1,11 @@
+[tool]
+name = "Polkabot"
+description = "PolkaBOT is an extensible bot for Polkadot and other Substrate based chains. It is mainly running on Matrix.org but also handles notification with other networks such as twitter using dedicated plugins."
+repository = "https://gitlab.com/Polkabot/polkabot"
+homepage = "https://gitlab.com/Polkabot/polkabot"
+version = "v0.7.7"
+authors = "chevdor <chevdor@gmail.com>"
+documentation = "https://gitlab.com/Polkabot/polkabot"
+readme = "https://gitlab.com/Polkabot/polkabot/-/blob/master/README.adoc"
+license = "Apache 2.0"
+icon = "https://gitlab.com/Polkabot/polkabot/-/blob/master/resources/logos/polkabot.png"

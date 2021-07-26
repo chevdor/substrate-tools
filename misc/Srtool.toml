@@ -1,0 +1,12 @@
+[tool]
+name = "Srtool"
+description = "srtool is a collection of dockerized tools helping with Substrate & Polkadot Runtime development."
+repository = "https://github.com/paritytech/srtool"
+homepage = "https://github.com/paritytech/srtool"
+version = "v0.9.15"
+authors = "chevdor <chevdor@gmail.com>"
+documentation = "https://github.com/paritytech/srtool"
+readme = "https://github.com/paritytech/srtool"
+license = "MIT"
+icon = "https://raw.githubusercontent.com/paritytech/srtool/master/resources/srtool-docker_512px.png"
+categories = ["runtime","wasm","builder","rust"]

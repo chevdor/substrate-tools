@@ -1,0 +1,12 @@
+[tool]
+name = "Srtool cli"
+description = "This utility requires docker to be installed and running and will invoke the srtool image to help you build a Substrate runtime."
+repository = "https://github.com/chevdor/srtool-cli"
+homepage = "https://github.com/chevdor/srtool-cli"
+version = "v0.6.0"
+authors = "chevdor <chevdor@gmail.com>"
+documentation = "https://github.com/chevdor/srtool-cli"
+readme = "https://github.com/chevdor/srtool-cli"
+license = ""
+icon = "https://raw.githubusercontent.com/chevdor/srtool-cli/master/resources/srtool-cli_512px.png"
+categories = ["rust","wasm","runtime"]

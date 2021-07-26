@@ -10,13 +10,11 @@ This repository is an inventory of cool Substrate tools. The (otherwise publicly
 
 Please follow the contributions guidelines outlined [`here`](CONTRIBUTING.md).
 
-
-
 ## Use kickstart & just
 
 Kickstart & Just help you creating a new submission by asking a few questions.
 You can install it from [here](https://github.com/Keats/kickstart).
-If you additionnaly have [just](https://github.com/casey/just) installed, 
+If you additionnaly have [just](https://github.com/casey/just) installed,
 
 You can simply type:
 

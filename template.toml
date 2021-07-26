@@ -34,6 +34,12 @@ prompt = "Description"
 validation = ".*\\.$"
 
 [[variables]]
+name = "categories"
+default = ""
+prompt = "List of categories, separated by commas"
+validation = ""
+
+[[variables]]
 name = "repository"
 default = ""
 prompt = "Repository"

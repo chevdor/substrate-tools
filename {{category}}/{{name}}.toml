@@ -9,3 +9,4 @@ documentation = "{{ documentation }}"
 readme = "{{ readme }}"
 license = "{{ license }}"
 icon = "{{ icon }}"
+categories = {{ categories | split(pat=",") | json_encode() }}

@@ -1,0 +1,12 @@
+[tool]
+name = "Srtool actions"
+description = "Github Action that will help you integrate srtool in your Github CI."
+repository = "https://github.com/chevdor/srtool-actions"
+homepage = "https://github.com/chevdor/srtool-actions"
+version = "v0.3.0"
+authors = "chevdor <chevdor@gmail.com>"
+documentation = "https://github.com/chevdor/srtool-actions"
+readme = "https://github.com/chevdor/srtool-actions"
+license = ""
+icon = "https://raw.githubusercontent.com/chevdor/srtool-actions/master/resources/logo/srtool-gh-action_512px.png"
+categories = ["runtime","wasm","rust"]

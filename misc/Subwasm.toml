@@ -1,0 +1,12 @@
+[tool]
+name = "Subwasm"
+description = "Subwasm is a command line utility that helps you query and analyze a runtime WASM blob offline. It can show information about a runtime, show its metadata and compare runtimes."
+repository = "https://github.com/chevdor/subwasm"
+homepage = "https://github.com/chevdor/subwasm"
+version = "v0.13.2"
+authors = "chevdor <chevdor@gmail.com>"
+documentation = "https://github.com/chevdor/subwasm"
+readme = "https://github.com/chevdor/subwasm"
+license = "MIT"
+icon = "https://raw.githubusercontent.com/chevdor/subwasm/master/resources/logos/Logo_512.png"
+categories = ["rust","wasm","runtime"]

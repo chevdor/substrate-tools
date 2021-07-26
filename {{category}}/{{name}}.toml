@@ -1,0 +1,12 @@
+[tool]
+name = "{{name}}"
+description = "{{description}}"
+repository = "{{ repository }}"
+homepage = "{{ homepage }}"
+version = "{{ version }}"
+authors = "{{ authors }}"
+documentation = "{{ documentation }}"
+readme = "{{ readme }}"
+license = "{{ license }}"
+icon = "{{ icon }}"
+categories = {{ categories | split(pat=",") | json_encode() }}
